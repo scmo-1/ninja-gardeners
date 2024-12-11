@@ -1,2 +1,2 @@
 # ninja-gardeners
-computer thinking
+computational thinking
