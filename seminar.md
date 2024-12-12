@@ -18,5 +18,5 @@ En länk: [Github](https://github.com/)
 En lista: 
 - :call_me_hand:
 - :fu:
-- 3
-- 4
+- :muscle:
+- :pinched_fingers:
