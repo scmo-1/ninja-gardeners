@@ -16,7 +16,7 @@ kod kod kod kod kod
 En länk: [Github](https://github.com/)
 
 En lista: 
-- 1
-- 2
+- :call_me_hand:
+- :fu: :middle_finger:
 - 3
 - 4
