@@ -13,7 +13,7 @@ kod kod kod kod kod
 ```
 
 ### h3 h3 h3 
-En länk: [Github] (https://github.com/)
+En länk: [Github](https://github.com/)
 En lista: 
 - 1
 - 2
